@@ -1,4 +1,4 @@
-import { useEffect } from 'react'
+import React, { useState, useEffect } from 'react';
 import Script from 'next/script'
 import { useRouter } from 'next/router'
 import { DefaultSeo } from 'next-seo'
